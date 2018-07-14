@@ -8,3 +8,5 @@ void PSO(double costFunction, short NVar, double varMin, double varMax, int
          boolean_T showIterInfo, struct0_T *out)
          
 costFunction is the desired output that is needed to be optimized by the particles.
+
+This function is based on the video tutorials provided by Yarpiz on **Particle Swarm Optimization (PSO) in MATLAB**. Link for the tutorial available from [Here](http://yarpiz.com/440/ytea101-particle-swarm-optimization-pso-in-matlab-video-tutorial).
