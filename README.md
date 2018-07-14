@@ -1,7 +1,7 @@
 # Particle Swarm Optimization In C
 Particle Swarm Optimization function implemented in C
 
-function::
+function ==>
 
 void PSO(double costFunction, short NVar, double varMin, double varMax, int
          maxIt, int NPop, double W, double wDamp, double C1, double C2,
